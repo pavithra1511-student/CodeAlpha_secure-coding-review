@@ -1,2 +1,23 @@
 # CodeAlpha_secure-coding-review
-This project demonstrates how a simple Python application can be reviewed for security weaknesses and improved by following secure coding best practices. It provides a basic understanding of identifying vulnerabilities and implementing safer coding techniques.
+
+## Features
+* Username validation
+* Password strength check
+* Input validation
+* Secure coding practices
+
+## Programming Language
+
+* Python
+  
+## Security Checks
+* Hardcoded credentials
+* Weak passwords
+* Input validation
+* Error handling
+
+## Recommendations
+* Use password hashing
+* Avoid hardcoded credentials
+* Validate user input
+* Follow secure coding standards
